@@ -9,6 +9,9 @@ __pycache__/
 
 # Distribution / packaging
 .venv
+.idea
+.github
+.env
 .Python
 build/
 develop-eggs/
