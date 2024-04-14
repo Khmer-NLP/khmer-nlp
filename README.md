@@ -12,7 +12,7 @@ Khmer NLP is a project is developed by community. It is free software distribute
 - [ ] Spelling check 👈
 - [ ] Speech recognition 👈
 
-### How to contribute
+### 🛂 How to contribute
 
 If you are new on contribution go to contributors guidelines
 
