@@ -42,4 +42,4 @@ If you are new on contribution go to contributors [guidelines](https://github.co
 ❤️ WORKING WITH PASSION WILL BE SUPRISINGLY RESULT ㊗️
 
 ## License:
-The Khmer Natural Language Processing project is open-source and available under the Apache License 2.0.
+The Khmer Natural Language Processing project is open-source and available under the [GNU General Public License v3.0](https://github.com/Khmer-NLP/khmer-nlp/blob/main/LICENSE).
