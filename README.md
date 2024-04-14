@@ -4,7 +4,7 @@
 # Khmer Natural Language Processing (Khmer NLP)
 Khmer NLP is a project is developed by community. It is free software distributed under the [GNU 3.0 License](/LICENSE)
 
-### Features
+## OUR TASKS
 - [x] Word explanation 👈
 - [ ] Word segmentation 👈
 - [ ] Sentence segmentation 👈
@@ -14,7 +14,7 @@ Khmer NLP is a project is developed by community. It is free software distribute
 
 ### 🛂 How to contribute
 
-If you are new on contribution go to contributors guidelines
+If you are new on contribution go to contributors [guidelines](https://github.com/Khmer-NLP/khmer-nlp/blob/main/CONTRIBUTING.md)
 
 ❤️ WORKING WITH PASSION WILL BE SUPRISINGLY RESULT ㊗️
 
