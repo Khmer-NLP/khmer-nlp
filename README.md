@@ -5,12 +5,12 @@
 Khmer NLP is a project is developed by EZ Startup. It is free software distributed under the [GNU 3.0 License](/LICENSE)
 
 ### Features
-- [x] Word explanation
-- [ ] Word segmentation
-- [ ] Sentence segmentation
-- [ ] Part of speech
-- [ ] Spelling check
-- [ ] Speech recognition
+- [x] Word explanation 👈
+- [ ] Word segmentation 👈
+- [ ] Sentence segmentation 👈
+- [ ] Part of speech 👈
+- [ ] Spelling check 👈
+- [ ] Speech recognition 👈
 
 ### How to contribute
 
