@@ -2,7 +2,7 @@
 <img src=https://avatars.githubusercontent.com/u/162941014 alt="Khmer NLP" width='128'/>
 
 # Khmer Natural Language Processing (Khmer NLP)
-Khmer NLP is a project is developed by EZ Startup. It is free software distributed under the [GNU 3.0 License](/LICENSE)
+Khmer NLP is a project is developed by community. It is free software distributed under the [GNU 3.0 License](/LICENSE)
 
 ### Features
 - [x] Word explanation 👈
@@ -15,4 +15,6 @@ Khmer NLP is a project is developed by EZ Startup. It is free software distribut
 ### How to contribute
 
 If you are new on contribution go to contributors guidelines
+
+❤️ WORKING WITH PASSION WILL BE SUPRISINGLY RESULT ㊗️
 
